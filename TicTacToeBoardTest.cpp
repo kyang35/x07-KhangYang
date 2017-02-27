@@ -18,5 +18,21 @@ TEST(TicTacToeBoardTest, sanityCheck)
 {
 	ASSERT_TRUE(true);
 }
-
-
+/*
+TEST(TicTacToeBoardTest, toggleTurn())
+{
+	ASSERT_FALSE(
+	if(turn == X)
+	{
+		turn = X;
+	}
+	, FALSE
+	)
+	ASSERT_FALSE(
+	if(turn == O)	
+	{
+		turn = O;
+	}
+	ASSERT_TRUE();
+}
+*/
